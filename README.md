@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Ziriuz84's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziriuz84&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziriuz84&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa">
