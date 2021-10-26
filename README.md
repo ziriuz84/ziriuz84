@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Sirio, an italian Web Frontend Developer, a nerd
+
 <!--
 **ziriuz84/ziriuz84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
