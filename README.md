@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![@ziriuz84's Holopin board](https://holopin.io/api/user/board?user=ziriuz84)](https://holopin.io/@ziriuz84)
 
 ![Ziriuz84's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziriuz84&show_icons=true&theme=radical)
 
@@ -26,3 +25,5 @@ Here are some ideas to get you started:
 ![](https://hit.yhype.me/github/profile?user_id=464498)
 
 ![](https://komarev.com/ghpvc/?username=ziriuz84)
+[![@ziriuz84's Holopin board](https://holopin.io/api/user/board?user=ziriuz84)](https://holopin.io/@ziriuz84)
+
