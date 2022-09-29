@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 -->
 
 
-![Ziriuz84's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziriuz84&show_icons=true&theme=radical)
+![Ziriuz84's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziriuz84&show_icons=true&theme=radical)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziriuz84&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziriuz84&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa">
+[![@ziriuz84's Holopin board](https://holopin.io/api/user/board?user=ziriuz84)](https://holopin.io/@ziriuz84)
+
 
 ![](https://hit.yhype.me/github/profile?user_id=464498)
 
 ![](https://komarev.com/ghpvc/?username=ziriuz84)
-[![@ziriuz84's Holopin board](https://holopin.io/api/user/board?user=ziriuz84)](https://holopin.io/@ziriuz84)
 
