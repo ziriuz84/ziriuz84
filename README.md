@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![@ziriuz84's Holopin board](https://holopin.io/api/user/board?user=ziriuz84)](https://holopin.io/@ziriuz84)
+
 ![Ziriuz84's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziriuz84&show_icons=true&theme=radical)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziriuz84&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa">
