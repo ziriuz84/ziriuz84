@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sirio, an italian Web Frontend Developer, a nerd
+I'm Sirio, an italian Web Developer, a nerd
 
 ## Languages
 
