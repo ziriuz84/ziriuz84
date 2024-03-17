@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://myreadme.vercel.app/api/embed/ziriuz84?panels=userstatistics,toprepositories,toplanguages,commitgraph,userwelcome" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/ziriuz84?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![@ziriuz84's Holopin board](https://holopin.io/api/user/board?user=ziriuz84)](https://holopin.io/@ziriuz84)
 
