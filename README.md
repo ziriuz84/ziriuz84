@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://myreadme.vercel.app/api/embed/ziriuz84?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziriuz84&theme=default&show_icons=true&hide_border=true&count_private=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ziriuz84&theme=default&show_icons=true&hide_border=true&layout=compact) ![GitHub Stats](https://streak-stats.demolab.com?user=ziriuz84&theme=default&hide_border=true)
 [![@ziriuz84's Holopin board](https://holopin.io/api/user/board?user=ziriuz84)](https://holopin.io/@ziriuz84)
 
 
